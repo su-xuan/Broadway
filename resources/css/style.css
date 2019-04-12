@@ -3,11 +3,11 @@ body {
   font-family: Helvetica;
 }
 
-div {
+.head, .bold{
   background-image: url('../images/the-flatiron-building.png');
 }
 
-div, footer, a {
+.haed, .bold, footer, a {
   color: white;
 }
 
